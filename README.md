@@ -1,4 +1,4 @@
-# HR ATTRITION PREDICTOR
+# Human Resources Department Project
 
 ---
 
